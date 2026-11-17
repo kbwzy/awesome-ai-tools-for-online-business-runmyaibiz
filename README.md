@@ -56,6 +56,7 @@
 
 - [Canva](https://www.canva.com/) - Design tool with AI features for social posts, slides, PDFs and video. 🆓
 - [Gamma](https://gamma.app/) - AI-generated presentations, documents and one-page websites. 🆓
+- [Hermoso](https://hermoso.ai/) - AI marketing agent that makes ads, posts to social channels and runs ad campaigns, from its own studio or from ChatGPT and Claude. 🆓
 
 ## Email and Audience
 
